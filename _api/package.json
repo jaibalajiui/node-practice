@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "hai this is description",
   "main": "index.js",
+  "keywords": ["freecodecamp","freecodecamp","freecodecamp"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
